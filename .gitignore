@@ -1,0 +1,16 @@
+
+.metadata/.lock
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+.metadata/.plugins/org.eclipse.rse.core/.log
+/.metadata/
+back/ChattingProject/gradle/wrapper/gradle-wrapper.jar
+back/ChattingProject/gradle/wrapper/gradle-wrapper.properties
+back/ChattingProject/gradlew.bat
+back/ChattingProject/gradlew
+back/ChattingProject/gradle/wrapper/gradle-wrapper.jar
+back/ChattingProject/src/main/resources/application.properties
+front/chatting/package-lock.json
+front/chatting/src/reportWebVitals.js
+front/chatting/src/setupTests.js
+front/chatting/public/manifest.json
